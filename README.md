@@ -45,6 +45,11 @@ Experienced Python Developer
 &nbsp;&nbsp;
 [![GitHub](https://img.shields.io/badge/GitHub-%23121011.svg?logo=github&logoColor=white)](https://github.com/asad-centrox)
 
+## 📹 Portfolio Videos:
+
+| Project Name   | Description                                                | Demo Video                                      |
+|----------------|------------------------------------------------------------|-------------------------------------------------|
+| Chatbot Project| An advanced chatbot solution enhancing engagement and communication through intuitive conversational agents. | [![YouTube Demo](https://img.youtube.com/vi/VIDEO_ID/0.jpg)](https://www.youtube.com/watch?v=VIDEO_ID) |
 
 
 ## 💻 Tech Stack:
