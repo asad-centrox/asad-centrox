@@ -45,12 +45,15 @@ Experienced Python Developer
 &nbsp;&nbsp;
 [![GitHub](https://img.shields.io/badge/GitHub-%23121011.svg?logo=github&logoColor=white)](https://github.com/asad-centrox)
 
+<br><br>
+
 ## 📹 Portfolio Videos:
 
 | Project Name   | Description                                                | Demo Video                                      |
 |----------------|------------------------------------------------------------|-------------------------------------------------|
 | Chatbot Project| An advanced chatbot solution enhancing engagement and communication through intuitive conversational agents. | [![YouTube Demo](https://img.youtube.com/vi/VIDEO_ID/0.jpg)](https://www.youtube.com/watch?v=VIDEO_ID) |
 
+<br><br>
 
 ## 💻 Tech Stack:
 ![AWS](https://img.shields.io/badge/AWS-%23FF9900.svg?style=for-the-badge&logo=amazon-aws&logoColor=white)
@@ -88,6 +91,7 @@ Experienced Python Developer
 ![Streamlit](https://img.shields.io/badge/Streamlit-%23800000.svg?style=for-the-badge&logo=streamlit&logoColor=white)
 ![Gradio](https://img.shields.io/badge/Gradio-%23007ACC.svg?style=for-the-badge&logo=gradio&logoColor=white)
 
+<br><br>
 
 ## 📈 GitHub Stats:
 
@@ -97,6 +101,7 @@ Experienced Python Developer
 
 <a href="https://github.com/asad-centrox" align="left"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=asad-centrox&langs_count=10&count_private=true&hide_border=true&title_color=6366f1&text_color=22c55e&icon_color=64748b&bg_color=00000000&locale=en&layout=compact" alt="Top Languages" /></a>
 
+<br><br>
 
 ## 🏆 GitHub Trophies:
 ![GitHub Trophies](https://github-profile-trophy.vercel.app/?username=asad-centrox&theme=monokai&no-bg=true&no-frame=true&margin-w=4&margin-h=4)
