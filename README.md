@@ -101,7 +101,9 @@ Experienced Python Developer
 
 <a href="https://github.com/asad-centrox" align="left"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=asad-centrox&langs_count=10&count_private=true&hide_border=true&title_color=6366f1&text_color=22c55e&icon_color=64748b&bg_color=00000000&locale=en&layout=compact" alt="Top Languages" /></a>
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=asad-centrox&bg_color=00000000&point=FF64DA&line=111F68&title_color=1E90FF&color=000000" alt="Asad Ali's GitHub Contribution Graph"/>
+<a href="https://github.com/asad-centrox" align="left">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=asad-centrox&bg_color=00000000&point=FF64DA&line=111F68&title_color=1E90FF&color=000000" alt="Asad Ali's GitHub Contribution Graph"/>
+</a>
 
 <br>
 
