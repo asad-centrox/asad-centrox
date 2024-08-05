@@ -101,7 +101,9 @@ Experienced Python Developer
 
 <a href="https://github.com/asad-centrox" align="left"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=asad-centrox&langs_count=10&count_private=true&hide_border=true&title_color=6366f1&text_color=22c55e&icon_color=64748b&bg_color=00000000&locale=en&layout=compact" alt="Top Languages" /></a>
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=asad-centrox&layout=compact&bg_color=FFFFFF&theme=github-compact" alt="Top Languages"/>
+<a href="https://github.com/asad-centrox">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=asad-centrox&layout=compact&bg_color=00000000&theme=default&text_color=22c55e&icon_color=6366f1" alt="Top Languages"/>
+</a>
 
 
 <a href="https://github.com/asad-centrox" align="left">
