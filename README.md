@@ -108,5 +108,5 @@
 ---
 [![GitHub Followers](https://img.shields.io/github/followers/asad-centrox?logo=github&style=for-the-badge&color=64748b&labelColor=000000)](https://www.github.com/asad-centrox)
 &nbsp;&nbsp;
-[![Profile views](https://komarev.com/ghpvc/?username=asad-centrox)](https://github.com/asad-centrox)
+[![Visitor Count](https://komarev.com/ghpvc/?username=asad-centrox)](https://github.com/asad-centrox)
 
