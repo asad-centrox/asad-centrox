@@ -1,37 +1,31 @@
-Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif)My name is Asad Ali
-================================================================================================================================
+# Hi! 👋 My name is Asad Ali
 
-Experienced Python Developer
-----------------------------
-## 💫 About Me:
+## Experienced Python Developer
+### 💫 About Me:
 🚀 Welcome to my GitHub profile! I'm an accomplished Full-Stack Python Developer with a passion for crafting cutting-edge AI/ML solutions, intuitive chatbots, dynamic web applications, and revolutionary computer vision systems. With over 5 years of experience, I'm dedicated to driving innovation and delivering impactful results.
 
 🎓 **Experience**: Cultivating a legacy of excellence in AI/ML engineering and full-stack development for more than 5 years.
 
-🔍 **Specializations**: <br>
-  - **Custom AI/ML Solutions**: Turning data into actionable insights for informed decision-making. <br>
-  - **Custom Chatbots**: Enhancing engagement and communication through intuitive conversational agents. <br>
-  - **Custom Computer Vision Solutions**: Unlocking efficiency and innovation through vision algorithms. <br>
-  - **Custom Web Applications**: Architecting scalable solutions tailored to unique client needs.
-  
-💡 **Skills**:
-  - **Programming Languages**: Python, JavaScript, C#
-  - **Frameworks**: Flask, Django, FastAPI
-  - **Frontend Technologies**: React, HTML, CSS, JavaScript, Bootstrap
-  - **Databases**: MySQL, PostgreSQL, MongoDB, SQLite
-  - **APIs**: RESTful APIs, GraphQL
-  - **Cloud Platforms**: AWS, GCP, Azure
-  - **DevOps**: Docker, Kubernetes, CI/CD
-  - **Data Science & ML**: TensorFlow, PyTorch, OpenCV, NLTK, Keras, Pandas, NumPy, Matplotlib, Scikit-learn, MLflow, Plotly
+🔍 **Specializations**: 
+- **Custom AI/ML Solutions**: Turning data into actionable insights for informed decision-making.
+- **Custom Chatbots**: Enhancing engagement and communication through intuitive conversational agents.
+- **Custom Computer Vision Solutions**: Unlocking efficiency and innovation through vision algorithms.
+- **Custom Web Applications**: Architecting scalable solutions tailored to unique client needs.
 
+💡 **Skills**:
+- **Programming Languages**: Python, JavaScript, C#
+- **Frameworks**: Flask, Django, FastAPI
+- **Frontend Technologies**: React, HTML, CSS, JavaScript, Bootstrap
+- **Databases**: MySQL, PostgreSQL, MongoDB, SQLite
+- **APIs**: RESTful APIs, GraphQL
+- **Cloud Platforms**: AWS, GCP, Azure
+- **DevOps**: Docker, Kubernetes, CI/CD
+- **Data Science & ML**: TensorFlow, PyTorch, OpenCV, NLTK, Keras, Pandas, NumPy, Matplotlib, Scikit-learn, MLflow, Plotly
 
 <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Hand%20gestures/Handshake.png" alt="Handshake" width="60" height="60" /> Let's connect and explore the possibilities of technology-driven success together!
-----------------------------
-
-
 
 ## 🌐 Socials:
-[![Gmail](https://img.shields.io/badge/Gmail-D14836?logo=gmail&logoColor=white)](mailto:ali@gmail.com)
+[![Gmail](https://img.shields.io/badge/Gmail-D14836?logo=gmail&logoColor=white)](mailto:awaisalif19@gmail.com)
 &nbsp;&nbsp;
 [![Google Scholar](https://img.shields.io/badge/Google%20Scholar-4285F4?logo=googlescholar&logoColor=white)](https://scholar.google.com/citations?user=ali)
 &nbsp;&nbsp;
@@ -48,7 +42,6 @@ Experienced Python Developer
 <br>
 
 ## 📹 Portfolio Videos:
-
 | Project Name   | Description                                                | Demo Video                                      |
 |----------------|------------------------------------------------------------|-------------------------------------------------|
 | Chatbot Project| An advanced chatbot solution enhancing engagement and communication through intuitive conversational agents. | [![YouTube Demo](https://img.youtube.com/vi/VIDEO_ID/0.jpg)](https://www.youtube.com/watch?v=VIDEO_ID) |
@@ -88,7 +81,7 @@ Experienced Python Developer
 ![TensorFlow](https://img.shields.io/badge/TensorFlow-%23FF6F00.svg?style=for-the-badge&logo=TensorFlow&logoColor=white)
 ![Vercel](https://img.shields.io/badge/vercel-%23000000.svg?style=for-the-badge&logo=vercel&logoColor=white)
 ![Tkinter](https://img.shields.io/badge/Tkinter-%23FFD800.svg?style=for-the-badge&logo=tkinter&logoColor=white)
-![Streamlit](https://img.shields.io/badge/Streamlit-%23800000.svg?style=for-the-badge&logo=streamlit&logoColor=white)
+![Streamlit](https://img.shields.io/badge/Streamlit-%23007ACC.svg?style=for-the-badge&logo=streamlit&logoColor=white)
 ![Gradio](https://img.shields.io/badge/Gradio-%23007ACC.svg?style=for-the-badge&logo=gradio&logoColor=white)
 
 <br>
@@ -112,10 +105,7 @@ Experienced Python Developer
 ## 🏆 GitHub Trophies:
 ![GitHub Trophies](https://github-profile-trophy.vercel.app/?username=asad-centrox&theme=monokai&no-bg=true&no-frame=true&margin-w=4&margin-h=4)
 
-
 ---
 [![GitHub Followers](https://img.shields.io/github/followers/asad-centrox?logo=github&style=for-the-badge&color=64748b&labelColor=000000)](https://www.github.com/asad-centrox)
 &nbsp;&nbsp;
-[![Visitor Count](https://visitcount.itsvg.in/api?id=asad-centrox&icon=0&color=6&style=for-the-badge)](https://visitcount.itsvg.in)
-
-
+![Visitor Count](https://profile-counter.glitch.me/asad-centrox/count.svg)
