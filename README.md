@@ -108,4 +108,6 @@
 ---
 [![GitHub Followers](https://img.shields.io/github/followers/asad-centrox?logo=github&style=for-the-badge&color=64748b&labelColor=000000)](https://www.github.com/asad-centrox)
 &nbsp;&nbsp;
-![Visitor Count](https://profile-counter.glitch.me/asad-centrox/count.svg) **Visitor Count**: This badge shows the number of visitors to my profile. It will only display when the count is greater than zero.
+![Visitor Count](https://visitcount.itsvg.in/api?id=asad-centrox&icon=0&color=6&style=for-the-badge)
+&nbsp;&nbsp;
+[![Profile views](https://komarev.com/ghpvc/?username=asad-centrox)](https://github.com/asad-centrox)
