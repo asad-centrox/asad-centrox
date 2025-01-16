@@ -106,8 +106,7 @@
 ![GitHub Trophies](https://github-profile-trophy.vercel.app/?username=asad-centrox&theme=monokai&no-bg=true&no-frame=true&margin-w=4&margin-h=4)
 
 ---
-[![GitHub Followers](https://img.shields.io/github/followers/asad-centrox?logo=github&style=for-the-badge&color=64748b&labelColor=000000)](https://www.github.com/asad-centrox)  
-&nbsp;&nbsp;&nbsp;  
-![Visitor Count](https://visitcount.itsvg.in/api?id=asad-centrox&icon=0&color=6&style=for-the-badge)   
+[![GitHub Followers](https://img.shields.io/github/followers/asad-centrox?logo=github&style=for-the-badge&color=64748b&labelColor=000000)](https://www.github.com/asad-centrox)
+&nbsp;&nbsp;
 [![Profile views](https://komarev.com/ghpvc/?username=asad-centrox)](https://github.com/asad-centrox)
 
